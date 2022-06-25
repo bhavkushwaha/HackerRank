@@ -9,7 +9,7 @@ Link to my HackerRank Profile <br>
 |**Problem Solving**|**0**|
 |C|23|
 |C++|2|
-|Python|4|
+|Python|5|
 |SQL|45|
-|**Languages**|**74**|
-|**TOTAL**|**74**|
+|**Languages**|**75**|
+|**TOTAL**|**75**|

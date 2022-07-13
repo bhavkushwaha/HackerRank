@@ -11,5 +11,5 @@ Link to my HackerRank Profile <br>
 |C++|2|
 |Python|5|
 |SQL|45|
-|**Languages**|**75**|
-|**TOTAL**|**75**|
+|**Languages**|**77**|
+|**TOTAL**|**77**|
